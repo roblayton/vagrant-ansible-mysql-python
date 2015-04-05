@@ -1,7 +1,5 @@
 ---
 - hosts: all
-  vars:
-    root_db_password: password
   gather_facts: True
   tasks:
     - name: Update OS
