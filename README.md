@@ -1,1 +1,1 @@
-# vagrant-ansible-mysql
+# vagrant-ansible-mysql-python
